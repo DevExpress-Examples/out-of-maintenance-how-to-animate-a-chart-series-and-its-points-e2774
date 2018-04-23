@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomChartAnimation", "CustomChartAnimation\CustomChartAnimation.csproj", "{20C0EB89-58B9-4464-9619-62F7D54AA62B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomChartAnimation.Web", "CustomChartAnimation.Web\CustomChartAnimation.Web.csproj", "{3F9824CA-F525-4D93-88EE-E470408E80C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20C0EB89-58B9-4464-9619-62F7D54AA62B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C0EB89-58B9-4464-9619-62F7D54AA62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C0EB89-58B9-4464-9619-62F7D54AA62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C0EB89-58B9-4464-9619-62F7D54AA62B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F9824CA-F525-4D93-88EE-E470408E80C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9824CA-F525-4D93-88EE-E470408E80C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9824CA-F525-4D93-88EE-E470408E80C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9824CA-F525-4D93-88EE-E470408E80C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

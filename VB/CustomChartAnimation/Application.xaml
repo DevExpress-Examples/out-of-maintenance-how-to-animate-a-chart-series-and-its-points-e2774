@@ -1,0 +1,7 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="CustomChartAnimation.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
+    <Application.Resources>
+    <my:String x:Key="DevExpress.Xpf.License">08-C4-E3-67-3C-44-A1-16-73-24-6F-BE-C5-13-6A-9F-D4-FF-6F-A9</my:String>
+  </Application.Resources>
+</Application>
